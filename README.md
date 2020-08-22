@@ -6,7 +6,9 @@
 
 `int`
 
+```
 #include <stdio>
   {
   printf "hello word";
   }
+```
